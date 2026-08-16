@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi 👋, I'm Hifza Waheed
 
 ### 💻 Software Developer 
